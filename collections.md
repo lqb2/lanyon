@@ -3,6 +3,28 @@ layout: page
 title: Collections
 ---
 
+## tumblrs
+
+* [someone really should](https://someonereallyshould.tumblr.com/)
+* [design](http://lqb2.tumblr.com)
+* [things i read](http://lqb2reads.tumblr.com/)
+* [quotes](http://lqb2quotes.tumblr.com/)
+* [videos and movies i watch](https://lqb2watches.tumblr.com/)
+* [things i listen to (mostly podcasts)](http://lqb2listen.tumblr.com/)
+* [enough is enough](http://lqb2enoughisenough.tumblr.com/)
+* [sketches](http://lqb2sketches.tumblr.com/)
+* [things i look at](https://lqb2sees.tumblr.com/)
+* [people on phones in public or private - popipop](https://peopleonphonesinpublicorprivate.tumblr.com/)
+* [things i cook](https://lqb2cooks.tumblr.com)
+* [(mostly) alcohol i drink](https://lqb2drinks.tumblr.com/)
+* [awful puns](https://lqb2puns.tumblr.com)
+* [yes and no archive - tool i used to practice saying no](https://lqb2yesandno.tumblr.com/)
+* [stuff i used to own](https://lqb2stuffiusedtoown.tumblr.com)
+* [things i want to remember](https://lqb2remembers.tumblr.com)
+* [blog archive (lqb2writes)](http://lqb2writes.tumblr.com/)
+
+---
+
 ## healing
 
 * [black lives matter: healing justice toolkit](https://blacklivesmatter.com/resource/healing-justice-toolkit/)
@@ -33,3 +55,19 @@ title: Collections
     * [Assessing Our Organizations – Racial Justice Assessment Tool](http://www.westernstatescenter.org/tools-and-resources/Tools/assessing-our-organizations-RJ)
 * [Government Alliance on Race & Equity](http://racialequityalliance.org/wp-content/uploads/2015/10/GARE-Racial_Equity_Toolkit.pdf)
 * [Race Forward: Racial Equity Impact Assessment Toolkit](https://www.raceforward.org/practice/tools/racial-equity-impact-assessment-toolkit)
+
+## random things on the internet i think are smart
+
+* http://www.webskillet.com/
+
+## narrative and story things
+
+* https://www.theopedproject.org/
+* http://www.millionpersonproject.org/
+* https://www.storybasedstrategy.org/intro-to-sbs
+* [working narratives: storytelling and social change strategy guide](http://workingnarratives.org/story-guide/)
+
+## quotes
+
+* [my storytelling quotes](https://lqb2.github.io/storytelling-quotes/)
+* [quotes on design](https://quotesondesign.com/)
